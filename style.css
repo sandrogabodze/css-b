@@ -135,7 +135,7 @@ body {
 .container2 {
     background-color: rgb(255, 255, 255);
     display: flex;  
-    margin-left: 10px;
+    judtify-content: center;
 }
 
 
@@ -146,7 +146,7 @@ body {
 
 .container3 {
     display: flex;
-    margin-left: 10px;
+    justify-content: center;
 }
 
 .card3 {
